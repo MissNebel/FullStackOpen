@@ -1,0 +1,2 @@
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+palvelin-->selain: {content: "asd", date: "2021-01-28T14:01:16.487Z"}
